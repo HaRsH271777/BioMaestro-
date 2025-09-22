@@ -43,10 +43,8 @@ env/
 # Project specific
 lightning_logs/
 temp/
-models/biomaestro_checkpoints/
-models/biomaestro_checkpoints_augmented/
-models/biomaestro_final_run/
-models/mae_checkpoints/
+models/
+data/
 
 # Audio files
 *.wav
