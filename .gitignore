@@ -42,7 +42,6 @@ env/
 
 # Project specific
 lightning_logs/
-temp/
 models/
 data/
 
@@ -52,7 +51,7 @@ data/
 *.flac
 
 # Generated results
-results/*.png
+
 
 # Logs and databases
 *.log
